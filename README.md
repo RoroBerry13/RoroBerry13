@@ -1,5 +1,5 @@
 ### Hello! 
-- My name is Roro and I'm an aspiring software engineer.
+- My name is Reem and I'm an aspiring software engineer.
 - Recently, I've been learning programming, and I am starting my first year of university next year.
 - I'm currently learning coding mostly in C.
 - Funfact about me is that I love art! I find it really fun to create something meaningful from a blank canvas with endless possibilities. 
