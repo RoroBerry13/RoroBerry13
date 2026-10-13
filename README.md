@@ -1,7 +1,6 @@
 ### Hello! 
-- My name is Reem and I'm an aspiring software engineer.
-- Recently, I've been learning programming, and I am starting my first year of university next year.
-- I'm currently learning coding mostly in C.
+- My name is Reem and I'm an aspiring software engineer, in my second year of university.
+- I'm currently learning programming in Java and PHP, while trying to improve my skills on Python, web programming, and databases.
 - Funfact about me is that I love art! I find it really fun to create something meaningful from a blank canvas with endless possibilities. 
 I find coding to be somewhat the same, so I'm looking forward to learning more.
 - If you got this far, thank you for reading!
